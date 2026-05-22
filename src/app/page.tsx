@@ -63,21 +63,21 @@ export default function LandingPage() {
           handle: "Board Support",
           testimonial: "Exceptional insight into board administration and regulatory compliance.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-optimistic-businessman-formalwear_1262-3600.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-optimistic-businessman-formalwear_1262-3600.jpg?_wi=1",
         },
         {
           name: "Company Secretary",
           handle: "Governance Advisory",
           testimonial: "Tshakazi Consulting provides the gold standard in boardpack preparation.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/elderly-businessman-with-laptop_23-2148116267.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/elderly-businessman-with-laptop_23-2148116267.jpg?_wi=1",
         },
         {
           name: "Board Chair",
           handle: "Strategic Partner",
           testimonial: "Highly professional delivery of complex statutory governance frameworks.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg?_wi=1",
         },
         {
           name: "General Counsel",
@@ -104,7 +104,7 @@ export default function LandingPage() {
           href: "#services",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/warm-lighting-drawer-row-blue-fronts_169016-68933.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/warm-lighting-drawer-row-blue-fronts_169016-68933.jpg?_wi=1"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg",
@@ -174,7 +174,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/close-up-teacher-writing-agenda_23-2148635364.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/warm-lighting-drawer-row-blue-fronts_169016-68933.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/warm-lighting-drawer-row-blue-fronts_169016-68933.jpg?_wi=2",
           imageAlt: "corporate file organization files",
         },
         {
@@ -189,7 +189,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/policewoman-working-confidential-case_482257-75290.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-optimistic-businessman-formalwear_1262-3600.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-optimistic-businessman-formalwear_1262-3600.jpg?_wi=2",
           imageAlt: "corporate file organization files",
         },
         {
@@ -204,7 +204,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/office-desk-with-computer-digital-tablet-mobile-phone_1252-898.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/elderly-businessman-with-laptop_23-2148116267.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/elderly-businessman-with-laptop_23-2148116267.jpg?_wi=2",
           imageAlt: "corporate file organization files",
         },
         {
@@ -219,7 +219,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/note-taking-concept-with-colorful-sticky-note-paper-white-background-top-view-space-text-horizontal-image_176474-7822.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg?_wi=2",
           imageAlt: "corporate file organization files",
         },
       ]}
